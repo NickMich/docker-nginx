@@ -1,5 +1,5 @@
 FROM centos:latest
-MAINTAINER nickmich <nickmichalos@gmail.com>
+MAINTAINER nickmich
 
 RUN yum -y update
 RUN yum -y upgrade

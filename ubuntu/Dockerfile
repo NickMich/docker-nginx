@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER nickmich <nickmichalos@gmail.com>
+MAINTAINER nickmich
 
 RUN apt-get update
 RUN apt-get -y upgrade
